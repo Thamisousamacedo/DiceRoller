@@ -4,7 +4,7 @@ Objetivo da Atividade:
 
 Criar um app Dice Roller interativo que permite que os usuários toquem em um elemento combinável Button para jogar um dado. O resultado da jogada aparece com um elemento combinável Image na tela.
 
-Você usa o Jetpack Compose com o Kotlin para criar o layout do app e, em seguida, programa a lógica de negócios para processar o que acontece quando o elemento combinável Button é tocado.
+Foi usado o Jetpack Compose com o Kotlin para criar o layout do app e, em seguida, programei a lógica de negócios para processar o que acontece quando o elemento combinável Button é tocado.
 
 O que aprendi nessa Atividade:
 
