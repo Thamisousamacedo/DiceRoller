@@ -13,4 +13,5 @@ O que aprendi nessa Atividade:
 - Como abrir e modificar o código da Activity de um app Android.
 
 Essa é a tela do app:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/508f8d25-72f9-4d55-9d80-efdcc3ec027b)
+
